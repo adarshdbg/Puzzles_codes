@@ -1,3 +1,4 @@
+// algoritm name : Collatz conjecture
 #include <stdio.h>
 #include <string.h>
 #define max(x, y) ((x) > (y) ? (x) : (y))
